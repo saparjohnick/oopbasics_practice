@@ -1,0 +1,7 @@
+
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(Ú”èÅ
+Q	java:S125A"<This block of commented-out lines of code should be removed.(µ Ü
+D
+java:S6212F"/Declare this local variable with "var" instead.(‰Ò·]
+I
+java:S1068	"3Remove this unused "initialCapacity" private field.(‘ëû´
